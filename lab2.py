@@ -3,6 +3,8 @@ import time
 import matplotlib.pyplot as plt
 import timeit
 
+#Comment just nje!
+
 class  Sort:
 
     def __init__(self, n, key):
