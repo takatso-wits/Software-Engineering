@@ -24,6 +24,9 @@ class  Sort:
         self.datastructure = list(range(self.n))
         return
 
+    def myorderedList(self):
+        self.datastructure = list(range(self.n))
+        return
 
 
     def swop(self, j, j_):
